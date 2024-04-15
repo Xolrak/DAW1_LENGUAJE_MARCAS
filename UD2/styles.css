@@ -1,0 +1,99 @@
+/* Estilos para toda la página */
+body {
+  font-family: Arial, sans-serif;
+  color: #333; /* Color del texto */
+  background-color: #f5f5f5; /* Color de fondo */
+  padding: 20px; /* Espaciado interno */
+}
+
+/* Estilos para la cabecera */
+header {
+  background-color: #4682b4; /* Fondo azul acero */
+  padding: 20px;
+  text-align: center;
+  border-bottom: 2px solid #00008b; /* Borde inferior azul oscuro */
+}
+
+header h1 {
+  margin: 0;
+  font-size: 32px;
+  font-style: italic;
+  color: #ffffff; /* Texto blanco */
+}
+
+header h2 {
+  margin-top: 10px;
+  font-size: 24px;
+  font-weight: normal;
+  color: #ffffff; /* Texto blanco */
+}
+
+/* Estilos para el contenido */
+.content {
+  padding: 20px;
+  border: 2px solid #4682b4; /* Borde azul acero */
+  margin: 20px;
+}
+
+.content h3 {
+  font-size: 20px;
+  text-align: left; /* Alineación del texto a la izquierda */
+  color: #4682b4; /* Texto azul acero */
+}
+
+.content p {
+  font-size: 18px;
+  text-align: left; /* Alineación del texto a la izquierda */
+  margin-bottom: 20px;
+}
+
+.content a {
+  color: #0000cd; /* Enlaces azul real */
+  text-decoration: none;
+}
+
+/* Estilos para las imágenes */
+.content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border: 2px solid #4682b4; /* Borde azul acero */
+}
+
+/* Estilos para los párrafos especiales */
+.special {
+  border: 2px solid #4682b4; /* Borde azul acero */
+  padding: 10px;
+}
+
+/* Estilos para el pie de página */
+footer {
+  background-color: #4682b4; /* Fondo azul acero */
+  color: #ffffff; /* Texto blanco */
+  text-align: center;
+  padding: 10px;
+  clear: both;
+}
+
+/* Estilos adicionales */
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.center {
+  text-align: center;
+}
+
+.donquijote {
+  color: #ff4500; /* Color naranja */
+}
+
